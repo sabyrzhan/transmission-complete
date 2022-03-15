@@ -6,6 +6,6 @@ This just moves downloaded Transmission torrents to another folder. It calls Tra
 
 ## Usage
 1. In `move.py` change:
-  a. `TORRENTS_FOLDER` - source torrents folder
-  b. `TARGET_FOLDER` - destination folder to move to
+  1. `TORRENTS_FOLDER` - source torrents folder
+  2. `TARGET_FOLDER` - destination folder to move to
 Execute `./run.sh`
