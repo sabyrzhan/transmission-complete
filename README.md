@@ -2,7 +2,8 @@
 This just moves downloaded Transmission torrents to another folder. It calls Transmission RPC using `transmission-rpc` library.
 
 ## Requirements
-`python3`
+1. `python3`
+2. Transmission client with enabled Remote support
 
 ## Usage
 1. In `move.py` change:
